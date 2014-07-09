@@ -13,6 +13,7 @@
 		EB1DB4B1196D237C0086F8B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB1DB4AF196D237C0086F8B7 /* Main.storyboard */; };
 		EB1DB4B3196D237C0086F8B7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB1DB4B2196D237C0086F8B7 /* Images.xcassets */; };
 		EB1DB4BF196D237C0086F8B7 /* GItTagExerciseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB1DB4BE196D237C0086F8B7 /* GItTagExerciseTests.m */; };
+		EB1DB4CA196D25A20086F8B7 /* File3.m in Sources */ = {isa = PBXBuildFile; fileRef = EB1DB4C9196D25A20086F8B7 /* File3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,8 @@
 		EB1DB4B8196D237C0086F8B7 /* GItTagExerciseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GItTagExerciseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB1DB4BD196D237C0086F8B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB1DB4BE196D237C0086F8B7 /* GItTagExerciseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GItTagExerciseTests.m; sourceTree = "<group>"; };
+		EB1DB4C8196D25A20086F8B7 /* File3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = File3.h; sourceTree = "<group>"; };
+		EB1DB4C9196D25A20086F8B7 /* File3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = File3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,8 @@
 				EB1DB4AA196D237C0086F8B7 /* AppDelegate.m */,
 				EB1DB4AC196D237C0086F8B7 /* ViewController.h */,
 				EB1DB4AD196D237C0086F8B7 /* ViewController.m */,
+				EB1DB4C8196D25A20086F8B7 /* File3.h */,
+				EB1DB4C9196D25A20086F8B7 /* File3.m */,
 				EB1DB4AF196D237C0086F8B7 /* Main.storyboard */,
 				EB1DB4B2196D237C0086F8B7 /* Images.xcassets */,
 				EB1DB4A5196D237C0086F8B7 /* Supporting Files */,
@@ -216,6 +221,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB1DB4AE196D237C0086F8B7 /* ViewController.m in Sources */,
+				EB1DB4CA196D25A20086F8B7 /* File3.m in Sources */,
 				EB1DB4AB196D237C0086F8B7 /* AppDelegate.m in Sources */,
 				EB1DB4A8196D237C0086F8B7 /* main.m in Sources */,
 			);
